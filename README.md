@@ -120,9 +120,6 @@ My Notes:
 Writing recommendations helped me understand how to prioritize controls based on risk.
 
 Project Files
-
-Place these in your repository:
-
 cybersecurity-risk-assessment-healthcare/
 │
 ├─ README.md
